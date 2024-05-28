@@ -11,3 +11,7 @@ I learned how to use git!
 #### Dewey
 I learned how to navigate through VS code and Markdown language 
 ![Raccoon](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Raccoon_in_Central_Park_%2835264%29.jpg/220px-Raccoon_in_Central_Park_%2835264%29.jpg)
+
+##### Hermane1
+I learned how to make a repo and add people to it.
+![cinnonmonroll](https://th.bing.com/th/id/OIP.49T5golAyaV9JANLP_RYBQHaNK?w=115&h=187&c=7&r=0&o=5&dpr=1.5&pid=1.7)
